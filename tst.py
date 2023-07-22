@@ -1,2 +1,2 @@
 print("hollo word")
-print("wah")
+[print("wah!") for i in range(3)]
